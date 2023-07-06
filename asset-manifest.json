@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/skillwill-router-dom/static/css/main.9b06dd6a.css",
+    "main.js": "/skillwill-router-dom/static/js/main.195790cb.js",
+    "static/media/harry-potter.jpg.jpg": "/skillwill-router-dom/static/media/harry-potter.jpg.46c8cfad6b9194c1f940.jpg",
+    "index.html": "/skillwill-router-dom/index.html",
+    "main.9b06dd6a.css.map": "/skillwill-router-dom/static/css/main.9b06dd6a.css.map",
+    "main.195790cb.js.map": "/skillwill-router-dom/static/js/main.195790cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b06dd6a.css",
+    "static/js/main.195790cb.js"
+  ]
+}
